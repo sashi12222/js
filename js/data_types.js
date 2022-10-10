@@ -18,7 +18,7 @@
 //string
 var nam="harry"
 console.log("my name is " + nam);
-console.log("dara type is " + typeof(nam));
+console.log("data type is " + typeof(nam));
 //number
 const a='5'
 console.log("data type is " + typeof(a));
